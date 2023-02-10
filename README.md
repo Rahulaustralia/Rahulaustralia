@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **rahul090897pandey@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/rahul-pandey-7731491a4/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,4 +68,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulaustralia&show_icons=true&locale=en" alt="rahulaustralia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulaustralia&" alt="rahulaustralia" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulaustralia&" alt="rahulaustralia" /></p>
