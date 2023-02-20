@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulaustralia" alt="rahulaustralia" /></a> </p>
 
-- 🌱 I’m currently working on <a href="https://rahulaustralia.github.io">Portfolio </a>
+- 🌱 I’m currently working on  https://rahulaustralia.github.io
 
 - 💬 Ask me about **MERN**
 
