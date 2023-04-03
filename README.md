@@ -8,23 +8,25 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulaustralia" alt="rahulaustralia" /></a> </p>
 
-- 🌱 I’m currently working on <a href="https://rahulaustralia.github.io"> Portfolio </a> 
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MERN**
+
+- 📫 How to reach me **https://www.linkedin.com/in/rahul-pandey-7731491a4/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rahul-pandey-7731491a4/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/106013673/215558466-1544d590-12aa-4618-8df2-df4af0d5da65.png" alt="https://www.linkedin.com/in/rahul-pandey-7731491a4/" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/rahul-pandey-7731491a4/"> Rahul-Pandey-Linkdin </a>
-<!--   <br/>
   <br/>
-
+  <br/>
+  <a href="https://rahulaustralia.github.io" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMv3MtbEfzGyDzWjYqFoKVcveG6AovL6gpg&usqp=CAU" alt="https://www.linkedin.com/in/rahul-pandey-7731491a4/" height="33" width="40" /></a>
+  <a href="https://rahulaustralia.github.io"> Rahul-Pandey-Portfolio </a>
   
 </p>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 
