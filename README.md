@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML CSS JavaScript & React**
 
-- 📫 How to reach me **https://www.linkedin.com/in/rahul-pandey-7731491a4/**
+- 📫 How to reach me **https://drive.google.com/file/d/1OpQUZEWg6Cz3mRf4zsF6TUbjw6oqmLVB/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
