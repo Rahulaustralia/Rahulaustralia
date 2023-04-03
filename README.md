@@ -65,8 +65,8 @@
 
 </td></tr></table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulaustralia&show_icons=true&locale=en&layout=compact" alt="rahulaustralia" /></p>
+ <div margin="auto" align="center">  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulaustralia&show_icons=true&locale=en&layout=compact" alt="rahulaustralia" /></p> </div>
+<br>
+<div margin="auto" align="center">  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulaustralia&show_icons=true&locale=en" alt="rahulaustralia" /></p> </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulaustralia&show_icons=true&locale=en" alt="rahulaustralia" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulaustralia&" alt="rahulaustralia" /></p>
+<div margin="auto" align="center">  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulaustralia&" alt="rahulaustralia" /></p> </div>
