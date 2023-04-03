@@ -1,6 +1,6 @@
 ![logo](https://i.postimg.cc/8ck1pYQW/Black-Modern-Vlogger-You-Tube-Banner.png)
 <h1 align="center">Hi 👋, I'm Rahul Pandey</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate front end developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **HTML CSS JavaScript & React**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rahul-pandey-7731491a4/**
 
