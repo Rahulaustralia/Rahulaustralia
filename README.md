@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulaustralia" alt="rahulaustralia" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently Working on **React**
 
 - 💬 Ask me about **HTML CSS JavaScript & React**
 
