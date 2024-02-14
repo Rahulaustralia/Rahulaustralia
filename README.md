@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Working on **React**
 
-- 💬 Ask me about **HTML CSS JavaScript & React**
+- 💬 Ask me about **HTML ,CSS ,JavaScript & React**
 
 - 📫 How to reach me **rahul09pandey08@gmail.com**
 
