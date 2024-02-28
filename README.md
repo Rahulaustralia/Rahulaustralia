@@ -21,7 +21,7 @@
   <br/>
   <br/>
   <a href="https://rahulaustralia.github.io" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMv3MtbEfzGyDzWjYqFoKVcveG6AovL6gpg&usqp=CAU" alt="https://www.linkedin.com/in/rahul-pandey-7731491a4/" height="33" width="40" /></a>
-  <a href="https://rahulaustralia.github.io"> Rahul-Pandey-Portfolio </a>
+  <a href="https://rahulaustralia.github.io"> Rahul-Pandey-Portfolio. </a>
   
 </p> -->
 
